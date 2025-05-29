@@ -28,7 +28,7 @@ No es necesario modificar otros archivos ni la estructura del proyecto.
 
 - `public/` — Archivos estáticos y punto de entrada de la aplicación.
 - `src/` — Código fuente de la aplicación React.
-  - `banedata.jsx` — Configuración y contenido de los banners.
+- `Data/banerdata.jsx` — Configuración y contenido de los banners.
 - `.gitignore` — Archivos y directorios a ignorar por Git.
 - `package.json` — Dependencias y scripts del proyecto.
 - `package-lock.json` — Versión exacta de las dependencias instaladas.
